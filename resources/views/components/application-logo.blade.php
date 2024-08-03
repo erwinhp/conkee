@@ -1,0 +1,1 @@
+<img src="{{ asset('logopln.png') }}" alt="Logo PLN" style="display: block; margin: auto; width: 100px; height: 125px; opacity: 0.9;">
